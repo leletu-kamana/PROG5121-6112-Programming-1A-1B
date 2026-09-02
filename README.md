@@ -1,136 +1,127 @@
-# PROG5121 / PROG6112 - Programming 1A & 1B
+# Programming 1A & 1B — Java Practice Portfolio
 
-## About This Repository
+> A structured record of my Java programming practice, practical tasks, and ongoing development throughout my studies at The IIE.
 
-This repository is used to document, organise and track my programming practice and tasks completed as part of my studies at **The IIE (The Independent Institute of Education)**.
+[![Java](https://img.shields.io/badge/Java-Programming-orange?logo=openjdk&logoColor=white)](https://www.java.com/)
+[![JDK](https://img.shields.io/badge/JDK-17%2B-blue?logo=openjdk&logoColor=white)](https://openjdk.org/)
+[![IDE](https://img.shields.io/badge/IDE-Apache%20NetBeans-1b6ac6?logo=apache-netbeans-ide&logoColor=white)](https://netbeans.apache.org/)
+[![Version Control](https://img.shields.io/badge/Version%20Control-Git-F05032?logo=git&logoColor=white)](https://git-scm.com/)
 
-The main purpose of the repository is to keep a record of the practical programming work completed during **Programming 1A and Programming 1B**. It allows me to track my progress, review previous exercises, practise programming concepts and build a collection of examples that I can refer to throughout my studies.
+## About
 
-## Purpose
+This repository documents my practical work for **PROG5121 — Programming 1A** and **PROG6112 — Programming 1B** at **The IIE (The Independent Institute of Education)**.
 
-The repository is intended to:
+It is both a learning record and a small portfolio of the programming concepts I have practised. New exercises and projects are added as I progress through the modules.
 
-- Document programming practice completed during my studies.
-- Track practical tasks, exercises and class activities.
-- Store Java programming examples and projects in an organised way.
-- Practise programming concepts through small, focused programs.
-- Keep a history of my development and progress over time.
-- Provide a reference for revising programming concepts before tests, assessments and examinations.
-- Demonstrate the practical skills developed during Programming 1A and 1B.
+## What this repository demonstrates
 
-## Modules
-
-- **PROG5121 - Programming 1A**
-- **PROG6112 - Programming 1B**
-
-These modules focus on developing programming fundamentals and applying programming concepts to practical problems.
-
-## Topics Practised
-
-The repository may contain practical work covering topics such as:
-
-- Java fundamentals
-- Variables and data types
+- Java programming fundamentals
+- Problem solving and algorithmic thinking
+- Variables, data types, operators and expressions
 - Input and output
-- Operators and expressions
-- Conditional statements
-- Loops and iteration
-- Arrays
-- Methods
+- Conditional statements and loops
+- Arrays and data processing
+- Methods and modular programming
 - Classes and objects
-- Object-oriented programming concepts
+- Object-oriented programming
 - Inheritance
-- Data processing and sorting
-- Tables and formatted output
-- Problem solving and algorithm development
-- Practical programming exercises and Integrated Classroom Exercises (ICEs)
+- Sorting algorithms
+- Formatted and tabular output
+- Testing, debugging and iterative improvement
+- Git and GitHub version control
 
-## Repository Structure
+## Repository Projects & Exercises
 
-The repository is organised into folders based on the programming exercises and projects completed during the course. Examples currently included are:
+| Folder | Focus | Status |
+|---|---|---|
+| `DataTypePractice` | Java data types and fundamentals | Completed / Practice |
+| `Bubble Sorting` | Sorting and algorithm implementation | Completed / Practice |
+| `Student` | Classes, objects and student data | Completed / Practice |
+| `StudentMarksTable` | Data processing and formatted output | Completed / Practice |
+| `StoreWorkshopInfo` | Object-oriented programming practice | Completed / Practice |
+| `PayRoll_Inhertance` | Inheritance and payroll-related OOP | Completed / Practice |
+| `ComputerLabsBookingReport` | Data handling and report generation | Completed / Practice |
+
+> Folder names reflect the original coursework/practice structure. Existing names are retained so that the repository history remains easy to follow.
+
+## Learning Workflow
+
+For each practical task, I aim to follow a consistent development process:
 
 ```text
-PROG5121-6112-Programming-1A-1B/
-│
-├── Bubble Sorting/
-├── ComputerLabsBookingReport/
-├── DataTypePractice/
-├── PayRoll_Inhertance/
-├── StoreWorkshopInfo/
-├── Student/
-├── StudentMarksTable/
-└── ...
+Problem
+   ↓
+Understand requirements
+   ↓
+Identify inputs, processing and outputs
+   ↓
+Design the algorithm / program logic
+   ↓
+Implement in Java
+   ↓
+Test with different inputs
+   ↓
+Debug and improve
+   ↓
+Commit changes to GitHub
 ```
 
-Additional folders and tasks will be added as I progress through Programming 1A and 1B.
+This approach helps me focus on understanding **why** a program works rather than only producing the expected output.
 
 ## Development Environment
 
-The programming work in this repository is primarily based on **Java** and can be developed and tested using a Java-supported IDE such as **Apache NetBeans**.
+| Tool | Purpose |
+|---|---|
+| Java / JDK | Programming language and runtime |
+| Apache NetBeans | Development environment |
+| Git | Local version control |
+| GitHub | Remote repository and project history |
 
-Typical tools used include:
+## Version Control
 
-- Java Development Kit (JDK)
-- Apache NetBeans IDE
-- Git
-- GitHub
+Git is used to keep a record of changes throughout the learning process. Commits are intended to describe the work that was completed clearly.
 
-## Learning Approach
-
-Each task is used as an opportunity to improve my understanding of programming rather than only completing the required output. Where appropriate, the work involves:
-
-1. Understanding the problem.
-2. Identifying the required inputs, processing and outputs.
-3. Developing the program logic.
-4. Implementing the solution in Java.
-5. Testing the program with different inputs.
-6. Debugging errors and improving the solution.
-7. Committing the completed work to GitHub to maintain a record of progress.
-
-## Git and Version Control
-
-GitHub is used to track changes made to the programming work. Regular commits help maintain a history of completed tasks and make it possible to review how the repository develops throughout the academic year.
-
-Example commit messages may include:
+Examples:
 
 ```text
 Add data type practice
 Complete bubble sorting exercise
-Add student marks table task
-Update payroll inheritance exercise
-Add computer labs booking report
+Add student marks table
+Implement payroll inheritance example
+Update computer lab booking report
 ```
 
-## Academic Use
+## Academic Context
 
-This repository is primarily a personal learning and development record for my Programming 1A and 1B studies at The IIE. The code is maintained to support learning, revision and practical programming development.
+This repository is primarily a **personal learning and development record**. The code represents practical programming work completed while studying Programming 1A and 1B.
 
-Where coursework or assessment rules apply, the relevant IIE academic and assessment requirements take precedence over the contents of this repository.
+Where a task forms part of an assessed activity, the applicable IIE assessment instructions, submission requirements and academic-integrity policies take precedence. The repository should not be treated as a replacement for official course material or assessment instructions.
 
-## Progress Tracking
+## Progress
 
-This repository will continue to be updated as new programming exercises, practical activities and projects are completed.
+The repository is actively maintained as I continue developing my programming skills.
 
-The aim is to maintain a clear record of:
+Future updates may include:
 
-- Tasks completed
-- Concepts practised
-- Programming problems solved
-- Errors encountered and corrected
-- Improvements made to previous solutions
-- New programming concepts learned
+- Additional Java exercises
+- More object-oriented programming examples
+- Improved input validation and error handling
+- Unit testing and automated testing practice
+- Refactoring older exercises as my skills improve
+- More complete Java applications and portfolio projects
 
 ## Author
 
 **Leletu Kamana**  
-Diploma in Information Technology - Software Development  
+Diploma in Information Technology — Software Development  
 The IIE / Rosebank College  
 South Africa
 
-## Repository Status
+## Repository
 
-**Active - continuously updated during Programming 1A and Programming 1B.**
+**PROG5121 / PROG6112 — Programming 1A & 1B**  
+Public learning and programming portfolio repository.
 
 ---
 
-This repository represents my ongoing programming practice and development throughout my studies. As I learn new concepts and complete additional tasks, the repository will be expanded and organised accordingly.
+*Built and maintained as part of my journey from learning programming fundamentals toward professional software development.*
