@@ -1,0 +1,42 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+--no-fonts
+-encoding
+'UTF-8'
+-protected
+--release
+25
+-sourcepath
+'C:/Users/Lelethu Kamana/OneDrive - ADvTECH Ltd/Documents/NetBeansProjects/StoreWorkshopInfo/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2026. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Lelethu Kamana/OneDrive - ADvTECH Ltd/Documents/NetBeansProjects/StoreWorkshopInfo/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'StoreWorkshopInfo 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'StoreWorkshopInfo 1.0-SNAPSHOT API'
+za.ac.iie.prog6112.StoreWorkshopInformation
+C:\Users\Lelethu Kamana\OneDrive - ADvTECH Ltd\Documents\NetBeansProjects\StoreWorkshopInfo\src\main\java = 1788358308128
+C:\Users\Lelethu Kamana\OneDrive - ADvTECH Ltd\Documents\NetBeansProjects\StoreWorkshopInfo\target\reports\apidocs\allclasses-index.html = 1788369639955
+C:\Users\Lelethu Kamana\OneDrive - ADvTECH Ltd\Documents\NetBeansProjects\StoreWorkshopInfo\target\reports\apidocs\allpackages-index.html = 1788369639965
+C:\Users\Lelethu Kamana\OneDrive - ADvTECH Ltd\Documents\NetBeansProjects\StoreWorkshopInfo\target\reports\apidocs\element-list = 1788369639588
+C:\Users\Lelethu Kamana\OneDrive - ADvTECH Ltd\Documents\NetBeansProjects\StoreWorkshopInfo\target\reports\apidocs\help-doc.html = 1788369640160
+C:\Users\Lelethu Kamana\OneDrive - ADvTECH Ltd\Documents\NetBeansProjects\StoreWorkshopInfo\target\reports\apidocs\index-all.html = 1788369640112
+C:\Users\Lelethu Kamana\OneDrive - ADvTECH Ltd\Documents\NetBeansProjects\StoreWorkshopInfo\target\reports\apidocs\index.html = 1788369640138
+C:\Users\Lelethu Kamana\OneDrive - ADvTECH Ltd\Documents\NetBeansProjects\StoreWorkshopInfo\target\reports\apidocs\member-search-index.js = 1788369639979
+C:\Users\Lelethu Kamana\OneDrive - ADvTECH Ltd\Documents\NetBeansProjects\StoreWorkshopInfo\target\reports\apidocs\module-search-index.js = 1788369639969
+C:\Users\Lelethu Kamana\OneDrive - ADvTECH Ltd\Documents\NetBeansProjects\StoreWorkshopInfo\target\reports\apidocs\overview-tree.html = 1788369639816
+C:\Users\Lelethu Kamana\OneDrive - ADvTECH Ltd\Documents\NetBeansProjects\StoreWorkshopInfo\target\reports\apidocs\package-search-index.js = 1788369639972
+C:\Users\Lelethu Kamana\OneDrive - ADvTECH Ltd\Documents\NetBeansProjects\StoreWorkshopInfo\target\reports\apidocs\search.html = 1788369640125
+C:\Users\Lelethu Kamana\OneDrive - ADvTECH Ltd\Documents\NetBeansProjects\StoreWorkshopInfo\target\reports\apidocs\tag-search-index.js = 1788369639982
+C:\Users\Lelethu Kamana\OneDrive - ADvTECH Ltd\Documents\NetBeansProjects\StoreWorkshopInfo\target\reports\apidocs\type-search-index.js = 1788369639976
